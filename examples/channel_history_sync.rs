@@ -1,3 +1,4 @@
+#[allow(unused_imports)]
 use slack_api::sync as slack;
 
 use std::env;
